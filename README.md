@@ -2,7 +2,15 @@
   
 **Description:** This eye movement exercise showcases a combination of JavaScript, HTML and CSS to create dynamic movement. Watch as a pair of eyes follows your mouse around the screen. 
 
-**How to Run:** download the files and drag and drop the index.html file on to a blank browser page to see a pair of eyes follow your mouse.
+**How to Run:** <br>
+Clone this project: <br>
+$ git clone https://github.com/kotzinr/Eye-movement- <br>
+
+Access: <br>
+$ cd Eye-movement- <br>
+
+Run the project: <br>
+$ open index.html <br>
 
 **Usage:** combines JavaScript, HTML and CSS to create dynamic movement following your mouse
 
