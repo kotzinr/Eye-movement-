@@ -16,7 +16,7 @@ $ open index.html <br>
 
 **Support:** contact via email for support questions: <a href="mailto:rkotzin@gmail.com">contact</a>
 
-**Roadmap:** Add additional characteristics to the set of eyes to make them more life-lke 
+**Roadmap:** Add additional characteristics to the set of eyes to make them more life-like 
 
 **License information:** MIT XPro starter code and image resources for all files listed
 
